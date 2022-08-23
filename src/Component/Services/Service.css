@@ -1,0 +1,17 @@
+.max {
+    border-right: 2px solid black;
+    height: 80px;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.color {
+    background-color: #D6E5FF;
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.icon {
+    font-size: 60px;
+}
